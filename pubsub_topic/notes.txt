@@ -1,0 +1,2 @@
+run pip install google-cloud-pubsub
+Enable the Cloud Pub.Sub API in GCP
